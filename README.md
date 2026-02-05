@@ -81,7 +81,6 @@ Connect components according to your wiring diagram:
 - LCD → Digital pins (or I2C if applicable)
 - Buzzer → Digital output pin
 
-(Include circuit diagram image here if available)
 
 ---
 
